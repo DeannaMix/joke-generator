@@ -1,0 +1,17 @@
+{
+    "jokes" : [
+     {
+            "joke": "What time is it",
+            "punchline": "a bad time"
+      },
+      {
+        "joke": "Who am I",
+        "punchline": "Deanna"
+      },
+      {
+        "joke": "Yo",
+        "punchline": "Whats uop"
+        }
+    ]
+
+}
